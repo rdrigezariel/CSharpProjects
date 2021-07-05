@@ -24,6 +24,8 @@ namespace VariablesAndDataTypes
             //Console.WriteLine("Your favorite number is: " + total);
             //Console.ReadLine();
 
+            // Data types walkthrough in C#
+
             bool isStudying = false;
             byte hoursWorked = 42;
             sbyte currentTemperature = -23;
