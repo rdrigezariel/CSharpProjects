@@ -1,0 +1,7 @@
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\WriteAndRunCodeInCSharp\bin\Debug\WriteAndRunCodeInCSharp.exe.config
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\WriteAndRunCodeInCSharp\bin\Debug\WriteAndRunCodeInCSharp.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\WriteAndRunCodeInCSharp\bin\Debug\WriteAndRunCodeInCSharp.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\WriteAndRunCodeInCSharp\obj\Debug\WriteAndRunCodeInCSharp.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\WriteAndRunCodeInCSharp\obj\Debug\WriteAndRunCodeInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\WriteAndRunCodeInCSharp\obj\Debug\WriteAndRunCodeInCSharp.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\WriteAndRunCodeInCSharp\obj\Debug\WriteAndRunCodeInCSharp.pdb
