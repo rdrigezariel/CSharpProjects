@@ -17,15 +17,15 @@ namespace DailyReportSubmissionAssignment
             Console.WriteLine("What course are you on?");
             string course = Console.ReadLine();
             Console.WriteLine("What page number?");
-            string pageNumber = Console.ReadLine();
+            int pageNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Do you need help with anything? (Please answer \"true\" or \"false\".)");
-            string helpNeeded = Console.ReadLine();
+            bool helpNeeded = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");
             string sharedExperience = Console.ReadLine();
             Console.WriteLine("Is there any other feedback you'd like to provide? Please give specifics.");
             string sharedFeeback = Console.ReadLine();
             Console.WriteLine("How many hours did you study today?");
-            string hoursWorked = Console.ReadLine();
+            int hoursWorked = Convert.ToInt32(Console.ReadLine());
 
             // This line displays a message, thanking the user for submitting a daily report.
             Console.WriteLine("\nThank you for your answers. An Instructor will respond to this shortly. Have a great day!") ;
