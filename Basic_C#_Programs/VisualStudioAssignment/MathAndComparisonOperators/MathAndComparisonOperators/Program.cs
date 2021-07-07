@@ -32,6 +32,17 @@ namespace MathAndComparisonOperators
             Console.WriteLine("\nRemainder");
             int remainder = 10 % 3;
             Console.WriteLine(remainder);
+
+            // 6th exercise (boolean)
+            Console.WriteLine("\nBoolean");
+            bool trueOrFalse = 12 < 5;
+            Console.WriteLine(trueOrFalse);
+
+            int roomTemperature = 70;
+            int currentTemperature = 72;
+            bool isWarm = currentTemperature > roomTemperature;
+            Console.WriteLine(isWarm);
+
             
 
         }
