@@ -19,7 +19,7 @@ namespace ArrayConsoleAppAssignment
             int stringIndex = Convert.ToInt32(Console.ReadLine());
             // Check if index exist
             // if not, let user know
-            if (stringIndex < 5 || stringIndex > -1)
+            if (stringIndex < stringArray.Length)
             {
                 Console.WriteLine("You selected: " + stringArray[stringIndex]);
             }
@@ -33,7 +33,7 @@ namespace ArrayConsoleAppAssignment
             int intIndex = Convert.ToInt32(Console.ReadLine());
             // Check if index exist
             // if not, let user know
-            if (intIndex < 5 || intIndex > -1)
+            if (intIndex < intArray.Length)
             {
                 Console.WriteLine("You selected: " + intArray[intIndex]);
             }
@@ -46,6 +46,8 @@ namespace ArrayConsoleAppAssignment
             Console.WriteLine("\nPlease select a number to display a string from the list: ");
             int stringListIndex = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You selected: " + mylist[stringListIndex]);
+
+            Console.ReadLine();
         }
     }
 }

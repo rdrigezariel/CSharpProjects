@@ -4,3 +4,4 @@ C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssi
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ArrayConsoleAppAssignment\obj\Debug\ArrayConsoleAppAssignment.csproj.CoreCompileInputs.cache
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ArrayConsoleAppAssignment\obj\Debug\ArrayConsoleAppAssignment.exe
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ArrayConsoleAppAssignment\obj\Debug\ArrayConsoleAppAssignment.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ArrayConsoleAppAssignment\obj\Debug\ArrayConsoleAppAssignment.csproj.AssemblyReference.cache

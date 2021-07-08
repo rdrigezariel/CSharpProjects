@@ -1,0 +1,7 @@
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\SixPartConsoleAppAssignment\bin\Debug\SixPartConsoleAppAssignment.exe.config
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\SixPartConsoleAppAssignment\bin\Debug\SixPartConsoleAppAssignment.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\SixPartConsoleAppAssignment\bin\Debug\SixPartConsoleAppAssignment.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\SixPartConsoleAppAssignment\obj\Debug\SixPartConsoleAppAssignment.pdb
