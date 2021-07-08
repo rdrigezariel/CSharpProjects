@@ -19,7 +19,7 @@ namespace ArrayConsoleAppAssignment
             int stringIndex = Convert.ToInt32(Console.ReadLine());
             // Check if index exist
             // if not, let user know
-            if (stringIndex < stringArray.Length)
+            if (stringIndex < stringArray.Length && stringIndex > -1)
             {
                 Console.WriteLine("You selected: " + stringArray[stringIndex]);
             }
@@ -33,7 +33,7 @@ namespace ArrayConsoleAppAssignment
             int intIndex = Convert.ToInt32(Console.ReadLine());
             // Check if index exist
             // if not, let user know
-            if (intIndex < intArray.Length)
+            if (intIndex < intArray.Length && intIndex > -1)
             {
                 Console.WriteLine("You selected: " + intArray[intIndex]);
             }
