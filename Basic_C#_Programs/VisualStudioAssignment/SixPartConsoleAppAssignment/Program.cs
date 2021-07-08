@@ -56,7 +56,7 @@ namespace SixPartConsoleAppAssignment
             {
                 if (mylist[i] == input)
                 {
-                    Console.WriteLine("The text is in the list");
+                    Console.WriteLine("The index of the list that contains the input you entered is " + i + ".");
                     break;
                 }
                 else if (i+1 == mylist.Count)
@@ -65,6 +65,51 @@ namespace SixPartConsoleAppAssignment
                 }
             }
 
+            // ** Part Five **
+            List<string> partFiveList = new List<string>(new string[] { "Ariel", "Bob", "Dylan", "Jack", "Mary", "Ariel" });
+            Console.WriteLine("Please enter a text to search for in the list: ");
+            string inputFive = Console.ReadLine();
+
+            for (int i = 0; i < partFiveList.Count; i++)
+            {
+                if (partFiveList[i].Contains(inputFive))
+                {
+                    Console.WriteLine("The index of the list that contains the text you entered is " + i + ".");
+                }
+                else if (i + 1 == partFiveList.Count)
+                {
+                    Console.WriteLine("Your input was not found on the list.");
+                }
+            }
+
+            // ** Part Six **
+            List<string> partSixList = new List<string>(new string[] { "Ariel", "Bob", "Dylan", "Jack", "Mary", "Ariel" });
+            List<string> partSixListTwo = new List<string>();
+            foreach (string item in partSixList)
+            {
+
+                if (partSixListTwo.Count == 0)
+                {
+                    Console.WriteLine(item + " has NOT already appeared in the list.");
+                    partSixListTwo.Add(item);
+                } else
+                {
+                    for (int i = 0; i < partSixListTwo.Count; i++)
+                    {
+                        if (partSixListTwo[i] == item)
+                        {
+                            Console.WriteLine(item + " has already appeared in the list.");
+                            break;
+                        }
+                        if (i + 1 == partSixListTwo.Count)
+                        {
+                            Console.WriteLine(item + " has NOT already appeared in the list.");
+                            partSixListTwo.Add(item);
+                            break;
+                        }
+                    }
+                }
+            }
         }
     }
 }
