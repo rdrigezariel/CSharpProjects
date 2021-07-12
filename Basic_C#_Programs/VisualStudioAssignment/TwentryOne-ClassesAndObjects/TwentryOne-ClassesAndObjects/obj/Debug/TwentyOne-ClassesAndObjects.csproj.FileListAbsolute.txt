@@ -1,0 +1,7 @@
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentryOne-ClassesAndObjects\TwentryOne-ClassesAndObjects\bin\Debug\TwentryOne-ClassesAndObjects.exe.config
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentryOne-ClassesAndObjects\TwentryOne-ClassesAndObjects\bin\Debug\TwentryOne-ClassesAndObjects.exe
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentryOne-ClassesAndObjects\TwentryOne-ClassesAndObjects\bin\Debug\TwentryOne-ClassesAndObjects.pdb
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentryOne-ClassesAndObjects\TwentryOne-ClassesAndObjects\obj\Debug\TwentyOne-ClassesAndObjects.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentryOne-ClassesAndObjects\TwentryOne-ClassesAndObjects\obj\Debug\TwentyOne-ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentryOne-ClassesAndObjects\TwentryOne-ClassesAndObjects\obj\Debug\TwentryOne-ClassesAndObjects.exe
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentryOne-ClassesAndObjects\TwentryOne-ClassesAndObjects\obj\Debug\TwentryOne-ClassesAndObjects.pdb
