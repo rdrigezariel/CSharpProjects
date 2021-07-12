@@ -1,0 +1,7 @@
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MainMethod\bin\Debug\MainMethod.exe.config
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MainMethod\bin\Debug\MainMethod.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MainMethod\bin\Debug\MainMethod.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MainMethod\obj\Debug\MainMethod.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MainMethod\obj\Debug\MainMethod.pdb
