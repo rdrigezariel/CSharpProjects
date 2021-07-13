@@ -37,8 +37,15 @@ namespace LambdaAssignment
                 }
             }
 
-            // Initialize a list with employees with a id greater than 5
-            List<Employee> employeesWithIdGreaterThanFive = employees.Where(x => x.Id > 5).ToList() ;
+            // Initialize a empty list that will hold employees with a id greater than 5
+            List<Employee> employeesWithIdGreaterThanFive = new List<Employee>();
+
+            // This loop will add any employees with a id greater than 5
+            foreach (Employee employee in employees.FindAll(x => x.Id > 5))
+            {
+                employeesWithIdGreaterThanFive.Add(employee);
+            }
+
 
             // Pause program
             Console.ReadLine();
