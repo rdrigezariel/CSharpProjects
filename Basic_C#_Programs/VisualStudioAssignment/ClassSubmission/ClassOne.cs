@@ -10,11 +10,25 @@ namespace ClassSubmission
     {
         // Created a void methid that outputs an int.
         // The method divides the input by 2.
-        // The method also contains a overload.
-        public void MethodOne(int input, int overload = 1)
+        public void MethodOne(int input)
         {
             Console.WriteLine("{0} divided by 2 equals: {1}", input, (input / 2));
-            Console.WriteLine("Overload value: {0}", overload);
+        }
+        // Overloaded MethodOne
+        // This overloaded method takes in a string parameter
+        public void MethodOne(string input)
+        {
+            try
+            {
+                int userInput = Convert.ToInt32(input);
+                Console.WriteLine("{0} divided by 2 equals: {1}", userInput, (userInput / 2));
+
+            }
+            catch (FormatException)
+            {
+
+                Console.WriteLine("Error: please enter a valid number");
+            }
         }
 
         // Created a method with output parameters

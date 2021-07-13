@@ -17,9 +17,10 @@ namespace ClassSubmission
             try
             {
                 // Convert the users string input into a int
-                int input = Convert.ToInt32(Console.ReadLine());
+                string input = Console.ReadLine();
+                int convInput = Convert.ToInt32(input);
                 // Call MethodOne
-                obj.MethodOne(input);
+                obj.MethodOne(convInput);
             }
             catch (FormatException)
             {
