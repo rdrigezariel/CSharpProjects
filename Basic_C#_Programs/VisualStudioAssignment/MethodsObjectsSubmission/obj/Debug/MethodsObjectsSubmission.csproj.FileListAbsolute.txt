@@ -1,0 +1,6 @@
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MethodsObjectsSubmission\bin\Debug\MethodsObjectsSubmission.exe.config
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MethodsObjectsSubmission\bin\Debug\MethodsObjectsSubmission.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MethodsObjectsSubmission\bin\Debug\MethodsObjectsSubmission.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MethodsObjectsSubmission\obj\Debug\MethodsObjectsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MethodsObjectsSubmission\obj\Debug\MethodsObjectsSubmission.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\MethodsObjectsSubmission\obj\Debug\MethodsObjectsSubmission.pdb
