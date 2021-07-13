@@ -1,0 +1,7 @@
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\StructAssignment\obj\Debug\StructAssignment.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\StructAssignment\obj\Debug\StructAssignment.pdb

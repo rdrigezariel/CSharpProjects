@@ -7,7 +7,8 @@ namespace TwentryOne_ClassesAndObjects
     {
         static void Main()
         {
-
+            Card card1 = new Card();
+            Card card2 = new Card();
             Deck deck = new Deck();
             deck.Shuffle(3);
 
