@@ -8,7 +8,15 @@ namespace TwentryOne_ClassesAndObjects
 {
     public class Card
     {
-        public string Suit { get; set; }
+        public Suit Suit { get; set; }
         public string Face { get; set; }
+    }
+
+    public enum Suit
+    {
+        Clubs,
+        Diamonds,
+        Hearts,
+        Spades
     }
 }
