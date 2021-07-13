@@ -1,0 +1,7 @@
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.csprojAssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.exe.config
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.exe
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.pdb
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.exe
+C:\Users\Ariel\Documents\GitHub\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.pdb
