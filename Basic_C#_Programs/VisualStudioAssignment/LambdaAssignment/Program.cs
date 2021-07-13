@@ -36,15 +36,10 @@ namespace LambdaAssignment
                     employeesNamedJoe.Add(employee);
                 }
             }
-
-            // Initialize a empty list that will hold employees with a id greater than 5
-            List<Employee> employeesWithIdGreaterThanFive = new List<Employee>();
-
-            // This loop will add any employees with a id greater than 5
-            foreach (Employee employee in employees.FindAll(x => x.Id > 5))
-            {
-                employeesWithIdGreaterThanFive.Add(employee);
-            }
+            // Initilize a list that will hold employees with a first name of Joe using a lamda function
+            List<Employee> employeesNamedJoeTwo = employees.FindAll(x => x.FirstName == "Joe");
+            // Initialize a list that will hold employees with a id greater than 5 using a lambda function
+            List<Employee> employeesWithIdGreaterThanFive = employees.FindAll(x => x.Id > 5);
 
 
             // Pause program
