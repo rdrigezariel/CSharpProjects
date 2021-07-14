@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,7 +16,13 @@ namespace TwentryOne_ClassesAndObjects
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
+            string card = string.Format(Deck.Cards.First().ToString() + "\n");
+            Console.WriteLine(card);
+            using (StreamWriter file = new StreamWriter(@"C:\Users\Ariel\Desktop\.log2.txt", true))
+            {
+                file.WriteLine(DateTime.Now);
+                file.WriteLine(card);
+            }
             Deck.Cards.RemoveAt(0);
         }
     }
