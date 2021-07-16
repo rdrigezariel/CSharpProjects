@@ -8,3 +8,13 @@ C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssi
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentryOne-ClassesAndObjects\TwentryOne-ClassesAndObjects\obj\Debug\TwentyOne.csproj.CopyComplete
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentryOne-ClassesAndObjects\TwentryOne-ClassesAndObjects\obj\Debug\TwentryOne-ClassesAndObjects.exe
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentryOne-ClassesAndObjects\TwentryOne-ClassesAndObjects\obj\Debug\TwentryOne-ClassesAndObjects.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentyOne\TwentyOne\obj\Debug\TwentryOne-ClassesAndObjects.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentyOne\TwentyOne\obj\Debug\TwentryOne-ClassesAndObjects.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentyOne\TwentyOne\bin\Debug\TwentryOne-ClassesAndObjects.exe.config
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentyOne\TwentyOne\bin\Debug\TwentryOne-ClassesAndObjects.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentyOne\TwentyOne\bin\Debug\TwentryOne-ClassesAndObjects.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\VisualStudioAssignment\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete

@@ -10,13 +10,11 @@ namespace TwentyOne
     {
         static void Main()
         {
-            //string text = "Here is some text.";
-            //File.WriteAllText(@"C:\Users\Ariel\Desktop\log.txt", text);
+            const string casinoName = "Grand Hotel Casiono";
 
-            DateTime dateTime = new DateTime(1995, 5, 23, 8, 32, 45);
-            DateTime yearOfGraduation = new DateTime(2013, 6, 1, 16, 34, 22);
-            TimeSpan ageAtGraduation = yearOfGraduation - dateTime;
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            Guid identifier = Guid.NewGuid();
+
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
@@ -26,6 +24,11 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Ariel\Desktop\.log2.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 Console.WriteLine("Current players in game: {0}", game.Players.Count);
