@@ -156,3 +156,7 @@ C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\NewsLetterAppMVC
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\NewsLetterAppMVC\obj\Debug\NewsLetterAppMVC.dll
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\NewsLetterAppMVC\obj\Debug\NewsLetterAppMVC.pdb
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\NewsLetterAppMVC\obj\Debug\NewsLetterAppMVC.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\NewsLetterAppMVC\bin\EntityFramework.dll
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\NewsLetterAppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\NewsLetterAppMVC\bin\EntityFramework.xml
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\NewsLetterAppMVC\bin\EntityFramework.SqlServer.xml
