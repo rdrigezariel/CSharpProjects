@@ -1,2 +1,2 @@
-# TTA C#/.NET Projects
-This repository will contain C#/.NET projects I complete from The Tech Academy course work.
+# C# Projects
+This repository contains small projects I made using C#, .NET Framework, and .NET Core.
