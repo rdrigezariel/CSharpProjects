@@ -11,10 +11,7 @@ This repository contains C# projects I made using .NET Framework and .NET Core.
 ******
 
 ### Car Insurance
-
 details go here
-
-----------------
 
 ### Newsletter
 details go here
