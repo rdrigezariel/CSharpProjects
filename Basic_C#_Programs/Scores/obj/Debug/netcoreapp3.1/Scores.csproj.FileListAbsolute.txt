@@ -1,0 +1,13 @@
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.AssemblyReference.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfoInputs.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.AssemblyInfo.cs
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.exe
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.deps.json
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.json
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.runtimeconfig.dev.json
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.dll
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\bin\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.dll
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.pdb
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\Basic_C#_Programs\Scores\obj\Debug\netcoreapp3.1\Scores.genruntimeconfig.cache

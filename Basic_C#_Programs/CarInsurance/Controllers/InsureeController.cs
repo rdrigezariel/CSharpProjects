@@ -53,7 +53,7 @@ namespace CarInsurance.Controllers
                 decimal baseQuote = 50;
                 int insureeAge = insuree.Age();
 
-                if (insureeAge < 18) baseQuote += 100;
+                if (insureeAge <= 18) baseQuote += 100;
                 else if (insureeAge >= 19 && insureeAge <= 25) baseQuote += 50;
                 else baseQuote += 25;
 
