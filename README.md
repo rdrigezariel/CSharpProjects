@@ -11,7 +11,7 @@ This repository contains C# projects I made using .NET Framework and .NET Core.
 ******
 
 ### Car Insurance
-details go here
+This project is a .NET Framework MVC web application that mimics a car insurance website. It takes user's input on policy information and calculates a quote based on business logic. There is also an admin page that allows staff to view all of the quotes that have been saved.
 
 ### Newsletter
 details go here
