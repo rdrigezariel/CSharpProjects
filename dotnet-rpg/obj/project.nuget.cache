@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LWy3t/Uzb3VGSjUTFADJrDaxYO7JzLwkBBXsf5QuWRLn/RdLyFU0eC06E9NI+m/hHXYHxi9jDB1NFnADjW4O3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ariel\\Desktop\\Courses\\.NET 5 Web API & Entity Framework\\dotnet-rpg\\dotnet-rpg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ariel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ariel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ariel\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ariel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ariel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Ariel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
