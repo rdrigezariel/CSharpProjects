@@ -56,3 +56,5 @@ C:\Users\Ariel\Desktop\TTABasicCSharpProjects\dotnet-rpg\obj\Debug\net5.0\dotnet
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\dotnet-rpg\obj\Debug\net5.0\ref\dotnet-rpg.dll
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\dotnet-rpg\obj\Debug\net5.0\dotnet-rpg.pdb
 C:\Users\Ariel\Desktop\TTABasicCSharpProjects\dotnet-rpg\obj\Debug\net5.0\dotnet-rpg.genruntimeconfig.cache
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\dotnet-rpg\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Ariel\Desktop\TTABasicCSharpProjects\dotnet-rpg\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
