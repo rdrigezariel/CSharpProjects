@@ -2,11 +2,11 @@
 This repository contains C# projects I made using .NET Framework and .NET Core.
 
 ## Projects
-- [Car Insurance](https://github.com/rdrigezariel/CSharpProjects/tree/main/Basic_C%23_Programs/CarInsurance)
-- [Newsletter](https://github.com/rdrigezariel/CSharpProjects/tree/main/Basic_C%23_Programs/NewsLetterAppMVC)
-- [TwentyOne](https://github.com/rdrigezariel/CSharpProjects/tree/main/Basic_C%23_Programs/VisualStudioAssignment/TwentyOne)
-- [Daily Report](https://github.com/rdrigezariel/CSharpProjects/tree/main/Basic_C%23_Programs/VisualStudioAssignment/DailyReportSubmissionAssignment)
-- [Scores](https://github.com/rdrigezariel/CSharpProjects/tree/main/Basic_C%23_Programs/Scores)
+- [Car Insurance](https://github.com/rdrigezariel/CSharpProjects/tree/main/Basic%20Programs/CarInsurance)
+- [Newsletter](https://github.com/rdrigezariel/CSharpProjects/tree/main/Basic%20Programs/NewsLetterAppMVC)
+- [TwentyOne](https://github.com/rdrigezariel/CSharpProjects/tree/main/Basic%20Programs/VisualStudioAssignment/TwentyOne)
+- [Daily Report](https://github.com/rdrigezariel/CSharpProjects/tree/main/Basic%20Programs/VisualStudioAssignment/DailyReportSubmissionAssignment)
+- [Scores](https://github.com/rdrigezariel/CSharpProjects/tree/main/Basic%20Programs/Scores)
  	
 ******
 
