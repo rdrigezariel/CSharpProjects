@@ -1,7 +1,18 @@
 ﻿
+string firstName = string.Empty;
+while (true)
+{
+    Console.Write("Please enter your first name: ");
+    firstName = Console.ReadLine();
+    Console.WriteLine(firstName);
+    if (firstName == string.Empty)
+    {
+        Console.WriteLine("YOU DID NOT ENTER YOUR NAME, PLEASE TRY AGAIN!");
+        continue;
+    }
+    break;
+}
 
-Console.Write("Please enter your first name: ");
-string firstName = Console.ReadLine();
 
 Console.WriteLine("Call from IF statement");
 if (firstName.ToLower() == "tim" || firstName.ToLower() == "timothy") Console.WriteLine("Hello, Professor!");
